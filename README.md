@@ -1,1 +1,2 @@
 # Database-assignmnts
+Class assignments
